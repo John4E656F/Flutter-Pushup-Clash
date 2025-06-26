@@ -1,6 +1,6 @@
 {
-    "name": "pushup_clash",
-    "short_name": "pushup_clash",
+    "name": "pushup_vs",
+    "short_name": "pushup_vs",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

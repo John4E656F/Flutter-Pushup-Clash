@@ -1,4 +1,4 @@
-# pushup_clash
+# pushup_vs
 
 A new Flutter project.
 

@@ -1,4 +1,4 @@
-package com.example.pushup_clash
+package com.example.pushup_vs
 
 import io.flutter.embedding.android.FlutterActivity
 
